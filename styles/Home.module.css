@@ -1,5 +1,14 @@
 .container {
-  padding: 0 2rem;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: plum;
+  color: white;
+  height: 35px;
 }
 
 .main {
